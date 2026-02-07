@@ -29,7 +29,7 @@ Download the latest `.exe` installer from the [Releases](#) page and run it.
 
 1.  **Clone the repository / 克隆仓库**
     ```bash
-    git clone https://github.com/yourusername/ExamBuilder.git
+    git clone https://github.com/xingchengshuo/ExamBuilder.git
     cd ExamBuilder
     ```
 
